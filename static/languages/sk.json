@@ -1,13 +1,11 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Aká časť EÚ je postihnutá suchom?",
+  "subtitle": "V rokoch 2000 až 2020 bol priemerný podiel plochy postihnutej suchom v krajinách EÚ27 5,1 %, pričom Cyprus zaznamenal najvyššiu úroveň s 10,9 %, zatiaľ čo Švédsko malo najnižší priemer s 1,8 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Európska environmentálna agentúra",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
+  "customUnitLabel": "dotknutého štátneho územia",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
