@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Ce cotă din UE este afectată de secetă?",
+  "subtitle": "Între 2000 și 2020, ponderea medie a suprafeței afectate de secetă în țările UE-27 a fost de 5,1%, Cipru înregistrând cel mai ridicat nivel, de 10,9%, în timp ce Suedia a avut cea mai mică medie, de 1,8%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Agenția Europeană de Mediu",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "din teritoriul național afectat",
   "tooltipExtraInfoLabel": "Click aici"
 }
