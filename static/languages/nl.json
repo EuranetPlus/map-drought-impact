@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Welk deel van de EU wordt getroffen door droogte?",
+  "subtitle": "Tussen 2000 en 2020 bedroeg het gemiddelde aandeel van het door droogte getroffen gebied in de EU27-landen 5,1%, waarbij Cyprus het hoogste niveau noteerde met 10,9% en Zweden het laagste gemiddelde met 1,8%.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Europees Milieuagentschap",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "van het getroffen nationale grondgebied",
   "tooltipExtraInfoLabel": "Klik hier"
 }
