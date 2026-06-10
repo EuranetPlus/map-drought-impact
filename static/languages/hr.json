@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliki je dio EU-a pogođen sušom?",
+  "subtitle": "Između 2000. i 2020. godine prosječni udio područja pogođenih sušom u zemljama EU27 bio je 5,1%, pri čemu je Cipar zabilježio najvišu razinu s 10,9%, dok je Švedska imala najniži prosjek s 1,8%.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Europska agencija za okoliš",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "pogođenog nacionalnog teritorija",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
