@@ -1,13 +1,11 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui suurt osa EList mõjutab põud?",
+  "subtitle": "Aastatel 2000–2020 oli EL 27 riikides põua poolt mõjutatud ala keskmine osakaal 5,1%, kusjuures Küprosel registreeriti kõrgeim tase 10,9% ja Rootsis madalaim keskmine 1,8%.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Euroopa Keskkonnaagentuur",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "mõjutatud riigi territooriumil",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
