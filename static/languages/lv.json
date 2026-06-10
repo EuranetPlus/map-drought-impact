@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kādu ES daļu ietekmē sausums?",
+  "subtitle": "Laikā no 2000. līdz 2020. gadam sausuma skartās teritorijas vidējā daļa ES 27 valstīs bija 5,1 %, Kiprā reģistrējot visaugstāko līmeni – 10,9 %, savukārt Zviedrijā – viszemāko vidējo rādītāju – 1,8 %.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eiropas Vides aģentūra",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "skartās valsts teritorijas",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
