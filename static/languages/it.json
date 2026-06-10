@@ -1,13 +1,11 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quale percentuale del territorio dell'UE è colpita dalla siccità?",
+  "subtitle": "Tra il 2000 e il 2020, la quota media di area colpita dalla siccità nei paesi dell'UE27 è stata del 5,1%, con Cipro che ha registrato il livello più alto con il 10,9% e la Svezia che ha avuto la media più bassa con l'1,8%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "Agenzia europea dell'ambiente",
+  "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "del territorio nazionale interessato",
   "tooltipExtraInfoLabel": "clicca qui"
 }
