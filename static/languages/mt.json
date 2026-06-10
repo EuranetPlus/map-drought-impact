@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "X'sehem tal-UE huwa affettwat min-nixfa?",
+  "subtitle": "Bejn l-2000 u l-2020, is-sehem medju taż-żona milquta min-nixfa fil-pajjiżi tal-UE27 kien ta’ 5.1%, b’Ċipru tirreġistra l-ogħla livell b’10.9% filwaqt li l-Iżvezja kellha l-inqas medja b’1.8%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Aġenzija Ewropea għall-Ambjent",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "tat-territorju nazzjonali affettwat",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
