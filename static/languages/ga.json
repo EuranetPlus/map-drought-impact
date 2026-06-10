@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cén sciar den AE atá buailte ag triomach?",
+  "subtitle": "Idir 2000 agus 2020, ba é 5.1% an meán-sciar den limistéar a raibh tionchar triomach air i measc thíortha an AE27, agus an leibhéal is airde á thaifeadadh ag an gCipir ag 10.9% agus an meán is ísle ag an tSualainn ag 1.8%.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Gníomhaireacht Chomhshaoil Eorpach",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "den chríoch náisiúnta lena mbaineann",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
