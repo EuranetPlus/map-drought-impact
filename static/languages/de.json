@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Welcher Anteil der EU ist von Dürre betroffen?",
+  "subtitle": "Zwischen 2000 und 2020 betrug der durchschnittliche Anteil der von Dürre betroffenen Fläche in den EU27-Ländern 5,1 %, wobei Zypern mit 10,9 % den höchsten Wert aufwies, während Schweden mit 1,8 % den niedrigsten Durchschnitt hatte.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Europäische Umweltagentur",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "des betroffenen Staatsgebiets",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
