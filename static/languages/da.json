@@ -1,13 +1,11 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Hvilken andel af EU er påvirket af tørke?",
+  "subtitle": "Mellem 2000 og 2020 var den gennemsnitlige andel af tørkeramte områder i EU27-landene 5,1 %, hvor Cypern registrerede det højeste niveau på 10,9 %, mens Sverige havde det laveste gennemsnit på 1,8 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
+  "textSource": "Det Europæiske Miljøagentur",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "customUnitLabel": "af berørt nationalt territorium",
   "tooltipExtraInfoLabel": "Klik her"
 }
