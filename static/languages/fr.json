@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quelle proportion de l'UE est touchée par la sécheresse ?",
+  "subtitle": "Entre 2000 et 2020, la part moyenne des zones touchées par la sécheresse dans les 27 pays de l'UE était de 5,1 %, Chypre enregistrant le niveau le plus élevé à 10,9 % tandis que la Suède avait la moyenne la plus basse à 1,8 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Agence européenne pour l'environnement",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "du territoire national affecté",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
